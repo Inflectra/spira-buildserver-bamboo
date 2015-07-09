@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<project name="Bamboo Plugin" default="zipup">
+	<target name="zipup" description="Zips up the whole application for deployment">
+		<echo message="Zipping up entire application" />
+		<zip zipfile="Bamboo-Spira-Plugin.zip" verbose="true" comment="SpiraTeam Plug-In for Atlassian Bamboo">
+			<fileset>
+				<include name="spira-bamboo.jar" />
+			</fileset>
+		</zip>
+	</target>	
+</project>
