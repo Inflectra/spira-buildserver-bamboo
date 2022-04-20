@@ -102,7 +102,7 @@
 	<classpathentry kind="lib" path="C:/Bamboo/atlassian-bamboo/WEB-INF/lib/atlassian-plugins-osgi-events-3.2.17.jar"/>
 	<classpathentry kind="lib" path="C:/Bamboo/atlassian-bamboo/WEB-INF/lib/atlassian-plugins-schema-3.2.17.jar"/>
 	<classpathentry kind="lib" path="C:/Bamboo/atlassian-bamboo/WEB-INF/lib/atlassian-plugins-servlet-3.2.17.jar"/>
-	<classpathentry kind="lib" path="C:/Bamboo/atlassian-bamboo/WEB-INF/lib/atlassian-plugins-spring-3.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Bamboo/atlassian-bamboo/WEB-INF/lib/atlassian-plugins-spring-5.5.2"/>
 	<classpathentry kind="lib" path="C:/Bamboo/atlassian-bamboo/WEB-INF/lib/atlassian-plugins-webfragment-3.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Bamboo/atlassian-bamboo/WEB-INF/lib/atlassian-plugins-webresource-3.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Bamboo/atlassian-bamboo/WEB-INF/lib/atlassian-plugins-webresource-api-3.1.0.jar"/>
